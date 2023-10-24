@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm just doing some stuff for fun and research.
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/goryainov/)
+- Facebook: [Facebook Page](https://facebook.com/goryainov)
+
 <!--
 **alex-gph1/alex-gph1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
